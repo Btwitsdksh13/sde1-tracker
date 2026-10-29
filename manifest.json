@@ -1,0 +1,12 @@
+{
+  "name": "SDE1 Switch Tracker",
+  "short_name": "SDE1 Tracker",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f7",
+  "theme_color": "#2453c9",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
